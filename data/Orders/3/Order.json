@@ -1,0 +1,25 @@
+{
+  "orderId": 3,
+  "orderMonth": 4,
+  "orderYear": 2021,
+  "products": [
+    {
+      "id": 1,
+      "name": "Milk",
+      "price": 12.5,
+      "tags": ["cold", "white"]
+    },
+    {
+      "id": 287,
+      "name": "Eggplant",
+      "price": 12,
+      "tags": ["veg", "health"]
+    },
+    {
+      "id": 238,
+      "name": "Bread",
+      "price": 5.3,
+      "tags": ["white flour", "sliced", "pastry"]
+    }
+  ]
+}

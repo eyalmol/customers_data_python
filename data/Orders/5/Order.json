@@ -1,0 +1,25 @@
+{
+  "orderId": 5,
+  "orderMonth": 5,
+  "orderYear": 2021,
+  "products": [
+    {
+      "id": 523,
+      "name": "Bamba",
+      "price": 8.3,
+      "tags": ["snack", "yellow"]
+    },
+    {
+      "id": 287,
+      "name": "Eggplant",
+      "price": 12,
+      "tags": ["veg", "health"]
+    },
+    {
+      "id": 72,
+      "name": "Coca-Cola",
+      "price": 5.3,
+      "tags": ["bottle", "drink", "high suger"]
+    }
+  ]
+}

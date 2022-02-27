@@ -1,0 +1,19 @@
+{
+  "orderId": 4,
+  "orderMonth": 5,
+  "orderYear": 2021,
+  "products": [
+    {
+      "id": 3234,
+      "name": "Bananas",
+      "price": 25.5,
+      "tags": ["fruit", "health", "yellow"]
+    },
+    {
+      "id": 2,
+      "name": "Corn",
+      "price": 11.2,
+      "tags": ["veg", "yellow"]
+    }
+  ]
+}

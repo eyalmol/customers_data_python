@@ -1,0 +1,31 @@
+{
+  "orderId": 2,
+  "orderMonth": 4,
+  "orderYear": 2021,
+  "products": [
+    {
+      "id": 2,
+      "name": "Corn",
+      "price": 11.2,
+      "tags": ["veg", "yellow"]
+    },
+    {
+      "id": 491,
+      "name": "Carrots",
+      "price": 9.9,
+      "tags": ["veg", "orange"]
+    },
+    {
+      "id": 72,
+      "name": "Coca-Cola",
+      "price": 5.3,
+      "tags": ["bottle", "drink", "high suger"]
+    },
+    {
+      "id": 109,
+      "name": "Cheddar cheese",
+      "price": 21.4,
+      "tags": ["high fat perc", "cheese"]
+    }
+  ]
+}

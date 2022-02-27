@@ -1,0 +1,31 @@
+{
+  "orderId": 1,
+  "orderMonth": 5,
+  "orderYear": 2021,
+  "products": [
+    {
+      "id": 1,
+      "name": "Milk",
+      "price": 12.5,
+      "tags": ["cold", "white"]
+    },
+    {
+      "id": 3234,
+      "name": "Bananas",
+      "price": 25.5,
+      "tags": ["fruit", "health", "yellow"]
+    },
+    {
+      "id": 238,
+      "name": "Bread",
+      "price": 5.3,
+      "tags": ["white flour", "sliced", "pastry"]
+    },
+    {
+      "id": 523,
+      "name": "Bamba",
+      "price": 8.3,
+      "tags": ["snack", "peanuts", "yellow"]
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "CustomerFirstName": "Jack",
+    "CustomerLastName": "Nicole",
+    "OrderDate": "05-21",
+    "NumberOfProducts": 2,
+    "TotalPrice": 36.7,
+    "ProductWithMaxPrice": "Bananas",
+    "IsYellowProductIncluded": true
+}

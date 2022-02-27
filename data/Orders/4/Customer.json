@@ -1,0 +1,24 @@
+{
+    "customerID":6789,
+    "firstName": "Jack",
+    "lastName": "Nicole",
+    "age": 67,
+    "address":
+    {
+        "streetAddress": "34 3rd Street",
+        "city": "Los Angeles",
+        "state": "California",
+        "postalCode": "2321"
+    },
+    "phoneNumber":
+    [
+        {
+          "type": "home",
+          "number": "321 555-4321"
+        },
+        {
+          "type": "fax",
+          "number": "756 444-8796"
+        }
+    ]
+}
